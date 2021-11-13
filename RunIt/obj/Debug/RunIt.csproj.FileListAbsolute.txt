@@ -1,0 +1,14 @@
+D:\Programs\EDSDKLib\RunIt\bin\Debug\RunIt.exe.config
+D:\Programs\EDSDKLib\RunIt\bin\Debug\RunIt.exe
+D:\Programs\EDSDKLib\RunIt\bin\Debug\RunIt.pdb
+D:\Programs\EDSDKLib\RunIt\obj\Debug\RunIt.csprojResolveAssemblyReference.cache
+D:\Programs\EDSDKLib\RunIt\obj\Debug\MainWindow.g.cs
+D:\Programs\EDSDKLib\RunIt\obj\Debug\App.g.cs
+D:\Programs\EDSDKLib\RunIt\obj\Debug\RunIt_MarkupCompile.cache
+D:\Programs\EDSDKLib\RunIt\obj\Debug\RunIt_MarkupCompile.lref
+D:\Programs\EDSDKLib\RunIt\obj\Debug\MainWindow.baml
+D:\Programs\EDSDKLib\RunIt\obj\Debug\RunIt.g.resources
+D:\Programs\EDSDKLib\RunIt\obj\Debug\RunIt.Properties.Resources.resources
+D:\Programs\EDSDKLib\RunIt\obj\Debug\RunIt.csproj.GenerateResource.Cache
+D:\Programs\EDSDKLib\RunIt\obj\Debug\RunIt.exe
+D:\Programs\EDSDKLib\RunIt\obj\Debug\RunIt.pdb

@@ -1,0 +1,5 @@
+D:\Programs\EDSDKLib\EDSDKLib\bin\Debug\EDSDKLib.dll
+D:\Programs\EDSDKLib\EDSDKLib\bin\Debug\EDSDKLib.pdb
+D:\Programs\EDSDKLib\EDSDKLib\obj\x86\Debug\EDSDKLib.csprojResolveAssemblyReference.cache
+D:\Programs\EDSDKLib\EDSDKLib\obj\x86\Debug\EDSDKLib.dll
+D:\Programs\EDSDKLib\EDSDKLib\obj\x86\Debug\EDSDKLib.pdb

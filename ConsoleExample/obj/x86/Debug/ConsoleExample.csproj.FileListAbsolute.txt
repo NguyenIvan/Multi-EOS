@@ -1,0 +1,7 @@
+D:\Programs\EDSDKLib\ConsoleExample\bin\Debug\ConsoleExample.exe
+D:\Programs\EDSDKLib\ConsoleExample\bin\Debug\ConsoleExample.pdb
+D:\Programs\EDSDKLib\ConsoleExample\bin\Debug\EDSDKLib.dll
+D:\Programs\EDSDKLib\ConsoleExample\bin\Debug\EDSDKLib.pdb
+D:\Programs\EDSDKLib\ConsoleExample\obj\x86\Debug\ConsoleExample.csprojResolveAssemblyReference.cache
+D:\Programs\EDSDKLib\ConsoleExample\obj\x86\Debug\ConsoleExample.exe
+D:\Programs\EDSDKLib\ConsoleExample\obj\x86\Debug\ConsoleExample.pdb

@@ -1,0 +1,9 @@
+D:\Programs\EDSDKLib\WinFormsExample\bin\Debug\WinFormsExample.exe
+D:\Programs\EDSDKLib\WinFormsExample\bin\Debug\WinFormsExample.pdb
+D:\Programs\EDSDKLib\WinFormsExample\bin\Debug\EDSDKLib.dll
+D:\Programs\EDSDKLib\WinFormsExample\bin\Debug\EDSDKLib.pdb
+D:\Programs\EDSDKLib\WinFormsExample\obj\x86\Debug\WinFormsExample.csprojResolveAssemblyReference.cache
+D:\Programs\EDSDKLib\WinFormsExample\obj\x86\Debug\WinFormsExample.MainForm.resources
+D:\Programs\EDSDKLib\WinFormsExample\obj\x86\Debug\WinFormsExample.csproj.GenerateResource.Cache
+D:\Programs\EDSDKLib\WinFormsExample\obj\x86\Debug\WinFormsExample.exe
+D:\Programs\EDSDKLib\WinFormsExample\obj\x86\Debug\WinFormsExample.pdb
